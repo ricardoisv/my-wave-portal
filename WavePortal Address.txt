@@ -1,16 +1,1 @@
-Deploying contracts with account:  0x91FBD0Ad89fE731736df9473C4A5418aE0A5362e
-Account balance:  250000000000000000
-WavePortal address:  /*0xcc5EA36DDef5dE89927876E587BB31837fe5F1f8*/
 
-
-Deploying contracts with account:  0x91FBD0Ad89fE731736df9473C4A5418aE0A5362e
-Account balance:  249748442700742222
-WavePortal address:  0x1Db9F3b38024c57F7b53d03FaA97Dda6C3C7771b
-
-Deploying contracts with account:  0x91FBD0Ad89fE731736df9473C4A5418aE0A5362e
-Account balance:  249375276501251334
-WavePortal address:  0x41b33D9e78980A6E2cC86092C416a0011FBAF90A
-
-Deploying contracts with account:  0x91FBD0Ad89fE731736df9473C4A5418aE0A5362e
-Account balance:  248251946880020278
-WavePortal address:  0x13F78A749404e2D7e7F619d1b227d2f97225e722
